@@ -12,9 +12,9 @@ int main(){
     cout<<"it is a palindrome";
   }
   else{
-    cout<<"it is not a palindrome";
+    cout<<"it is not a palindrome.";
   }
   cout<<endl;
 
-return 0;
+  return 0;
 }
