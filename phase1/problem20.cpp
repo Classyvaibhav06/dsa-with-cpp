@@ -13,6 +13,7 @@ int main(){
   int arr[temp];
   int j=0;
   //makinng array for storing the divisiors
+  //testing
   for(int i=1;i<=num/2;i++){
     if(num%i==0){
       arr[j]=i;
