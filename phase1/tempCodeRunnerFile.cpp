@@ -1,1 +1,0 @@
-cout<<pow(arr[0],digit);
