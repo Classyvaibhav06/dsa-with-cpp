@@ -26,8 +26,7 @@
    Explanation: 2020 is divisible by 4 but not by 100, or it is divisible by 400, so it is a leap year.
 
 4. **Calculating Armstrong Numbers**  
-   **Difficulty**: Easy  
-   **Topics**: Basic Programming, Number Theory  
+   **Diramming, Number Theory  
    **Description**: Write a program to check if a number is an Armstrong number.  
    **Example**:  
    Input: `number = 153`  
@@ -37,7 +36,8 @@
 5. **Generating the Fibonacci Series**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Sequences  
-   **Description**: Write a program to generate the Fibonacci series up to a given number.  
+   **Description**: Write a program to fficulty**: Easy  
+   **Topics**: Basic Proggenerate the Fibonacci series up to a given number.  
    **Example**:  
    Input: `limit = 10`  
    Output: `[0, 1, 1, 2, 3, 5, 8]`  
